@@ -1,7 +1,8 @@
 <h2 align="center"> Hello! </h2>
 
-![SHAPER's GitHub stats](https://github-readme-stats.vercel.app/api?username=shaper12340w&show_icons=true&theme=algolia)
-
+<h4 align="center">
+  ![SHAPER's GitHub stats](https://github-readme-stats.vercel.app/api?username=shaper12340w&show_icons=true&theme=algolia)
+</h4>
 
 ## Skills
 
