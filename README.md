@@ -9,6 +9,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?exclude_repo=CCD&username=shaper12340w&layout=compact&hide_border=true&theme=algolia"/>
   </a>
 </p>
+
 ## Skills
 
 ### Languages
