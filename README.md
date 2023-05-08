@@ -1,9 +1,14 @@
 <h2 align="center"> Hello! </h2>
 
-<h4 align="center">
-  ![SHAPER's GitHub stats](https://github-readme-stats.vercel.app/api?username=shaper12340w&show_icons=true&theme=algolia)
-</h4>
-
+<p align="center">
+  </br>
+  <a href="https://github.com/mooner1022">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shaper12340w&show_icons=true&theme=algolia"/>
+  </a>
+  <a href="https://github.com/mooner1022?tab=repositories">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?exclude_repo=CCD&username=shaper12340w&layout=compact&hide_border=true&theme=algolia"/>
+  </a>
+</p>
 ## Skills
 
 ### Languages
