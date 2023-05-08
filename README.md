@@ -1,19 +1,16 @@
-### Hi there 👋
+<h2 align="center"> Hello! </h2>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shaper12340w&show_icons=true&theme=algolia)
+![SHAPER's GitHub stats](https://github-readme-stats.vercel.app/api?username=shaper12340w&show_icons=true&theme=algolia)
 
 
-<!--
-**shaper12340w/shaper12340w** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills
 
-Here are some ideas to get you started:
+### Languages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![JavaScript](https://img.shields.io/badge/-javascript-c2ad07?style=for-the-badge&logo=javascript&logoColor=fff)
+![TypeScript](https://img.shields.io/badge/-typescript-007acc?style=for-the-badge&logo=typescript&logoColor=fff)
+
+### Tools
+
+![Visual&nbsp;Studio&nbsp;Code](https://img.shields.io/badge/-Visual&nbsp;Studio&nbsp;Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=fff)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=fff)
