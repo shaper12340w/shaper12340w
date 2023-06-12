@@ -20,4 +20,5 @@
 ### Tools
 
 ![Visual&nbsp;Studio&nbsp;Code](https://img.shields.io/badge/-Visual&nbsp;Studio&nbsp;Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=fff)
+![IntelliJ&nbsp;IDEA](https://img.shields.io/badge/-IntelliJ&nbsp;IDEA-000000?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=fff)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=fff)
