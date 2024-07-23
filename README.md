@@ -14,11 +14,19 @@
 
 ### Languages
 
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-0095d5?style=for-the-badge&logo=kotlin&logoColor=fff)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-javascript-c2ad07?style=for-the-badge&logo=javascript&logoColor=fff)
 ![TypeScript](https://img.shields.io/badge/-typescript-007acc?style=for-the-badge&logo=typescript&logoColor=fff)
+
+### Backends
+
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### Tools
 
 ![Visual&nbsp;Studio&nbsp;Code](https://img.shields.io/badge/-Visual&nbsp;Studio&nbsp;Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=fff)
+![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white)
 ![IntelliJ&nbsp;IDEA](https://img.shields.io/badge/-IntelliJ&nbsp;IDEA-000000?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=fff)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=fff)
