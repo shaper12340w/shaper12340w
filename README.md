@@ -15,7 +15,7 @@
 ### Languages
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![Kotlin](https://img.shields.io/badge/-Kotlin-0095d5?style=for-the-badge&logo=kotlin&logoColor=purple)
+![Kotlin](https://img.shields.io/badge/-Kotlin-0095d5?style=for-the-badge&logo=kotlin&logoColor=fff)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-javascript-c2ad07?style=for-the-badge&logo=javascript&logoColor=fff)
 ![TypeScript](https://img.shields.io/badge/-typescript-007acc?style=for-the-badge&logo=typescript&logoColor=fff)
