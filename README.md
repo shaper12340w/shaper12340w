@@ -6,7 +6,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shaper12340w&show_icons=true&theme=algolia"/>
   </a>
   <a href="https://github.com/shaper12340w?tab=repositories">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?exclude_repo=CCD&username=shaper12340w&layout=compact&hide_border=true&theme=algolia"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?exclude_repo=CCD&username=shaper12340w&layout=compact&langs_count=8&hide_border=true&theme=algolia"/>
   </a>
 </p>
 
