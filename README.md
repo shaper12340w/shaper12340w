@@ -33,4 +33,4 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=fff)
 
 ## Memo
-kotlin이 목록에 뜰 때까지 봇 개발에 노력할것이닷!
+- kotlin이 목록에 뜰 때까지 봇 개발에 노력할것이닷!
