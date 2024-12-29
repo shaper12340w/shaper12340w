@@ -33,4 +33,4 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=fff)
 
 ## Memo
-- I will study Kotlin until my new repos appears in the most used language.
+- I will study Kotlin until my new repos appears in the most used language (　o=^•ェ•)o　┏━┓
