@@ -1,4 +1,4 @@
-<h2 align="center"> Hello! </h2>
+<h1 align="center"> Hello! </h1>
 
 <p align="center">
   </br>
@@ -31,3 +31,6 @@
 ![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white)
 ![IntelliJ&nbsp;IDEA](https://img.shields.io/badge/-IntelliJ&nbsp;IDEA-000000?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=fff)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=fff)
+
+## Memo
+kotlin이 목록에 뜰 때까지 봇 개발에 노력할것이닷!
