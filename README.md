@@ -1,4 +1,4 @@
-<h1 align="center"> Hello! </h1>
+<h1 align="center"> Hello! I'm SHAPER</h1>
 
 <p align="center">
   </br>
@@ -33,4 +33,4 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=fff)
 
 ## Memo
-- kotlin이 목록에 뜰 때까지 봇 개발에 노력할것이닷!
+- I will study Kotlin until my new repos appears in the most used language.
