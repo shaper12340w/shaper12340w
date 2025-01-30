@@ -1,6 +1,5 @@
 <h1 align="center"> Hello! I'm SHAPER</h1>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshaper12340w&count_bg=%235A82E3&title_bg=%23555555&icon=googlecardboard.svg&icon_color=%23F2F2F2&title=Visiotrs&edge_flat=true)](https://hits.seeyoufarm.com)
 <p align="center">
   </br>
   <a href="https://github.com/shaper12340w">
@@ -33,5 +32,10 @@
 ![IntelliJ&nbsp;IDEA](https://img.shields.io/badge/-IntelliJ&nbsp;IDEA-000000?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=fff)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=fff)
 
-## Memo
+## Extras
+
+### Visitors
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshaper12340w&count_bg=%235A82E3&title_bg=%23555555&icon=googlecardboard.svg&icon_color=%23F2F2F2&title=Visiotrs&edge_flat=true)](https://hits.seeyoufarm.com)
+
+### Memo
 - I will study Kotlin until my new repos appears in the most used language (　o=^•ェ•)o　┏━┓
