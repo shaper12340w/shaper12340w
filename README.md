@@ -1,5 +1,6 @@
 <h1 align="center"> Hello! I'm SHAPER</h1>
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshaper12340w&count_bg=%235A82E3&title_bg=%23555555&icon=googlecardboard.svg&icon_color=%23F2F2F2&title=Visiotrs&edge_flat=true)](https://hits.seeyoufarm.com)
 <p align="center">
   </br>
   <a href="https://github.com/shaper12340w">
