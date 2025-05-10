@@ -3,10 +3,10 @@
 <p align="center">
   </br>
   <a href="https://github.com/shaper12340w">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shaper12340w&count_private=true&hide_border=true&show_icons=true&cache_seconds=14400&theme=algolia"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shaper12340w&count_private=true&hide_border=true&show_icons=true&cache_seconds=14400&count_private=true&theme=algolia"/>
   </a>
   <a href="https://github.com/shaper12340w?tab=repositories">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?exclude_repo=CCD&username=shaper12340w&layout=compact&langs_count=8&hide_border=true&theme=algolia"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?exclude_repo=CCD&username=shaper12340w&layout=compact&langs_count=8&hide_border=true&count_private=true&theme=algolia"/>
   </a>
 </p>
 
